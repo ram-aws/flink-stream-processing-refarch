@@ -1,0 +1,2 @@
+
+fs.s3a.aws.credentials.provider: EC2ContainerCredentialsProviderWrapper,ProfileCredentialsProvider,EnvironmentVariableCredentialsProvider,SystemPropertiesCredentialsProvider
